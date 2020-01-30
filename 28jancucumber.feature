@@ -23,7 +23,7 @@ Then Login is success
 Examples:
    |user|password|
    |Lalitha|Password123|
-   |John|Ravi123|
+   |John|Ravi1234|
 
    @datadriven
    Scenario: Search a product
